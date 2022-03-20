@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- BSIT student at University of Santo Tomas
+- Student at University of Santo Tomas
 - Filipino
 - Loves music and video games, and anime 
 
