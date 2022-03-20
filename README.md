@@ -22,8 +22,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chickencombo&layout=compact"/>
 
-### 📱 Connect With Me
-![https://www.facebook.com/adromedemon/](https://img.shields.io/badge/Facebook-0b88ef?style=for-the-badge&logo=facebook&logoColor=white)
+### 📱 Contact
+![](https://img.shields.io/badge/lester.cuadra24@gmail.com-ca473a?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 💼 Portfolio
 
