@@ -18,6 +18,13 @@
 ![](https://img.shields.io/badge/git-F8FFFD?style=for-the-badge&logo=git&logoColor=black)
 
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chickencombo&layout=compact"/>
+
+### 📱 Connect With Me
+![https://www.facebook.com/adromedemon/](https://img.shields.io/badge/Facebook-0b88ef?style=for-the-badge&logo=facebook&logoColor=white)
+
+### 💼 Portfolio
+
+https://chickencombo.github.io/Portfolio/
