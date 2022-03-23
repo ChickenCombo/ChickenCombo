@@ -22,9 +22,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chickencombo&layout=compact"/>
 
-### 📱 Contact
-![](https://img.shields.io/badge/lester.cuadra24@gmail.com-ca473a?style=for-the-badge&logo=gmail&logoColor=white)
-
 ### 💼 Portfolio
 
-https://chickencombo.github.io/Portfolio/
+https://chickencombo.github.io/portfolio/
