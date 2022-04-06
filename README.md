@@ -2,9 +2,8 @@
 
 ### 👤 About Me
 
-- Student at University of Santo Tomas
-- Filipino
-- Loves music and video games, and anime 
+- Currently studying at University of Santo Tomas
+- Loves music, video games, and anime 
 
 ৻(  •̀ ᗜ •́  ৻)
 
