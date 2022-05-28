@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- Currently studying at University of Santo Tomas
+- 4th year Information Technology student from University of Santo Tomas
 - Loves music, video games, and anime 
 
 ৻(  •̀ ᗜ •́  ৻)
