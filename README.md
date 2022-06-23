@@ -2,8 +2,8 @@
 
 ### 👤 About Me
 
-- 4th year Information Technology student from University of Santo Tomas
-- Loves music, video games, and anime 
+- Studies BS Information Technology major in Web and Mobile App Development 
+- From University of Santo Tomas
 
 ৻(  •̀ ᗜ •́  ৻)
 
