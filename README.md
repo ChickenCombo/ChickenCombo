@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello {user}, I'm <a href="https://chickencombo.github.io/portfolio">Lester</a> 👋!</h1>
+   <h1>Hello {user}, I'm <a href="https://chickencombo.github.io/portfolio">Lester</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <div>
       BSIT student at the University of Santo Tomas 🐯
    </div>
