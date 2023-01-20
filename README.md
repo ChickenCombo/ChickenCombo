@@ -3,10 +3,10 @@
 	<div>BSIT student at the University of Santo Tomas 🐯</div>
 	<br />
   <a href="https://github.com/ChickenCombo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+     <img src="https://shields.io/badge/ChickenCombo-1e1e2e?logo=github&logoColor=abb2cd&style=flat"/>
   </a>
   <a href="https://www.linkedin.com/in/johnlestercuadra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://shields.io/badge/Lester%20Cuadra-1e1e2e?logo=linkedin&logoColor=abb2cd&style=flat"/>
   </a>
 	<br />
   <br />
