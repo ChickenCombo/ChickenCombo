@@ -10,7 +10,7 @@
       <img src="https://shields.io/badge/LinkedIn-1e1e2e?logo=linkedin&logoColor=abb2cd&style=flat-square"/>
    </a>
    <a href="mailto:johnlestercuadra.dev@gmail.com" target="_blank">
-      <img src="https://shields.io/badge/Gmail-1e1e2e?logo=gmail&logoColor=abb2cd&style=flat-square"/>
+      <img src="https://shields.io/badge/Email-1e1e2e?logo=gmail&logoColor=abb2cd&style=flat-square"/>
    </a>
    <a href="https://discordapp.com/users/322911098640793601" target="_blank">
       <img src="https://shields.io/badge/Discord-1e1e2e?logo=discord&logoColor=abb2cd&style=flat-square"/>
