@@ -1,7 +1,7 @@
 <div align="center">
-   <h1>Hello {user}, I'm <a href="https://chickencombo.github.io/portfolio">Lester</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+   <h1>hello ${user}, i'm <a href="https://chickencombo.github.io/portfolio">lester</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <div>
-      BSIT student at the University of Santo Tomas 🐯
+      full stack developer. bsit graduate at ust 🐯. 
    </div>
    <a href="https://github.com/ChickenCombo" target="_blank">
       <img src="https://shields.io/badge/GitHub-1e1e2e?logo=github&logoColor=abb2cd&style=flat-square"/>
@@ -11,9 +11,6 @@
    </a>
    <a href="mailto:johnlestercuadra.dev@gmail.com" target="_blank">
       <img src="https://shields.io/badge/Email-1e1e2e?logo=gmail&logoColor=abb2cd&style=flat-square"/>
-   </a>
-   <a href="https://discordapp.com/users/322911098640793601" target="_blank">
-      <img src="https://shields.io/badge/Discord-1e1e2e?logo=discord&logoColor=abb2cd&style=flat-square"/>
    </a>
    <a href="https://chickencombo.github.io/portfolio/" target="_blank">
       <img src="https://shields.io/badge/Portfolio-1e1e2e?logo=powershell&logoColor=abb2cd&style=flat-square"/>
